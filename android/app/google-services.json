@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "28411312516",
+    "project_id": "fir-sample-2422b",
+    "storage_bucket": "fir-sample-2422b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28411312516:android:94d9de975027aa39a485d1",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVTWGKS9S4dmFOQkMfhDPX0_ARXDBRXgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28411312516:android:2ca43f0444e46fffa485d1",
+        "android_client_info": {
+          "package_name": "com.example.note_pad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVTWGKS9S4dmFOQkMfhDPX0_ARXDBRXgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
