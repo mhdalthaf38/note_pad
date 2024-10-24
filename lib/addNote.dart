@@ -51,7 +51,7 @@ class _AddnotesState extends State<Addnotes> {
              Padding(
                padding:  const EdgeInsets.all(8.0),
                child: TextField(maxLines: null,controller: _contentText,
-                decoration: const InputDecoration(hintText: 'Note Something down',hintStyle: TextStyle(fontSize: 20,fontWeight: FontWeight.bold),border: InputBorder.none)),
+                decoration: const InputDecoration(hintText: 'Note Something ',hintStyle: TextStyle(fontSize: 20,fontWeight: FontWeight.bold),border: InputBorder.none)),
              )
             
           ],
